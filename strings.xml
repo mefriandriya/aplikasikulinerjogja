@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KulinerJogja</string>
+    <string name="deskripsi_home">Yogyakarta merupakan satu-satunya kota yang memiliki gelar Daerah Istimewa Yogyakarta. Kota ini juga memiliki berbagai tempat wisata yang sangat terkenal, maka dari itu tak salah jika kota ini adalah salah satu kota pariwisata yang ada di Indonesia. \n\n
+    Pesona kota ini bukan hanya pada tempat dan pemandangan alamnya yang indah, melainkan budaya dan pastinya kuliner-kulinernya yang begitu menarik, Karena banyak orang yang datang ke kota ini bukan hanya untuk berwisata alam , tetapi juga berwisata kuliner\n\n
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
